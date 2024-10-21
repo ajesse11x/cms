@@ -3,7 +3,7 @@
   "main": "gulpfile.js",
   "dependencies": {
     "axios": "^0.17.1",
-    "vue": "^2.6.6",
+    "vue": "^3.0.0",
     "vue-autosuggest": "^1.8.1",
     "vue-cleave": "^1.2.2",
     "vue-lodash": "^1.0.3",
